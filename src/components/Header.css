@@ -1,0 +1,8 @@
+.Header {
+    background-color: aqua;
+    padding: 1rem;
+    margin-bottom : 1rem;
+}
+.Header h1 {
+    color : blue;
+}
